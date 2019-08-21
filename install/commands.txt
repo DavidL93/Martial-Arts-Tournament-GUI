@@ -1,0 +1,12 @@
+- To install pyinstaller
+pip install PyInstaller
+
+- To rebuild executable, enter the following in powershell
+- Make sure you are in the right directory:
+pyinstaller -w -F .\main_form.py 
+
+- To generate requirements.txt with all dependencies used in project included use the following:
+pip freeze > requirements.txt
+
+- Run the following command to install from requirements.txt
+pip3 install -r requirements.txt
