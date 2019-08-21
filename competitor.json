@@ -204,8 +204,8 @@
             "events": [
                 {
                     "K": "K13, 18-39 Yrs male, Open",
-                    "K placement": "N/A",
-                    "K score": 15,
+                    "K placement": 1,
+                    "K score": 20,
                     "DS": "DS3, 18 Yrs+ male/female, Open",
                     "DS placement": "N/A",
                     "DS score": 20,
@@ -242,7 +242,7 @@
                 }
             ],
             "attendance": true,
-            "score": 120
+            "score": 125
         },
         {
             "first name": "Nick",
@@ -509,8 +509,8 @@
             "events": [
                 {
                     "K": "K13, 18-39 Yrs male, Open",
-                    "K placement": "N/A",
-                    "K score": 20,
+                    "K placement": 2,
+                    "K score": 15,
                     "DS": "DS3, 18 Yrs+ male/female, Open",
                     "DS placement": "N/A",
                     "DS score": 15,
@@ -547,7 +547,7 @@
                 }
             ],
             "attendance": true,
-            "score": 60
+            "score": 55
         },
         {
             "first name": "Rowan",
@@ -1219,6 +1219,67 @@
             ],
             "attendance": true,
             "score": 40
+        },
+        {
+            "first name": "David",
+            "last name": "L",
+            "full name": "David L",
+            "club name": null,
+            "D.O.B": null,
+            "age": null,
+            "weight": null,
+            "gender": "male",
+            "address": "",
+            "suburb": "",
+            "post code": "",
+            "full address": ",  ",
+            "contact number": "",
+            "email": null,
+            "belt": null,
+            "martial arts level": "None",
+            "martial arts level full": "None",
+            "events": [
+                {
+                    "K": "K13, 18-39 Yrs male, Open",
+                    "K placement": 3,
+                    "K score": 10,
+                    "DS": null,
+                    "DS placement": null,
+                    "DS score": null,
+                    "PS": null,
+                    "PS placement": null,
+                    "PS score": null,
+                    "CS": null,
+                    "CS placement": null,
+                    "CS score": null,
+                    "W": null,
+                    "W placement": null,
+                    "W score": null,
+                    "KSC": null,
+                    "KSC placement": null,
+                    "KSC score": null,
+                    "KF": null,
+                    "KF placement": null,
+                    "KF score": null,
+                    "KB": null,
+                    "KB placement": null,
+                    "KB score": null,
+                    "S": null,
+                    "S placement": null,
+                    "S score": null,
+                    "A": null,
+                    "A placement": null,
+                    "A score": null,
+                    "SD": null,
+                    "SD placement": null,
+                    "SD score": null,
+                    "SF": null,
+                    "SF placement": null,
+                    "SF score": null
+                }
+            ],
+            "attendance": true,
+            "score": 10
         }
     ]
 }

@@ -234,7 +234,7 @@ def get_json_file():
     """Retrieves competitor.json file for modification"""
 
     cur_dir = os.getcwd()
-    if cur_dir.split("\\")[-1] == 'MartialArtsTournament': return 'competitor.json'
+    if cur_dir.split("\\")[-1] == 'Martial-Arts-Tournament-GUI': return 'competitor.json'
     else: print("Cannot find competitor.json")
 
 def get_age(birthday, age):
